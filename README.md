@@ -28,14 +28,6 @@ Working in Sports Analytics, Consulting, Social Impact
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tbala25"><img src="https://github-readme-stats.vercel.app/api?username=tbala25&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tbala25's GitHub stats" /></a>
-
-<a href="http://www.github.com/tbala25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tbala25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/tbala25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbala25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/tbala25/R_NBA-Grit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tbala25&repo=R_NBA-Grit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tbala25/manufacturing_system_optimization" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tbala25&repo=manufacturing_system_optimization&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
