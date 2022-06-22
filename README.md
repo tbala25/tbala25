@@ -7,7 +7,7 @@ I am a Data Scientist/Engineer interested in Sports Analytics, Social Impact, We
 
 * 🌍  I'm based in Chicago | New Orleans | Philadelphia
 * 🚀  I'm currently working on [NBA Data Pipeline and Performance Dashboard](http://github.com/tbala25/nba-scouting-dashboard)
-* 🧠  I'm learning Streamlit, Databricks, 
+<!-- * 🧠  I'm learning Streamlit, Databricks,  -->
 * 🤝  I'm open to collaborating on freelance dashboarding, data piplines, predictive modelling
 
 -----------------------
