@@ -1,15 +1,16 @@
 Hi 👋 My name is Tejas Bala
 ===========================
 
-Data Scientist/Engineer
------------------------
+I am a Data Scientist/Engineer interested in Sports Analytics, Social Impact, Web3
 
-Working in Sports Analytics, Consulting, Social Impact
+-----------------------
 
 * 🌍  I'm based in Chicago | New Orleans | Philadelphia
 * 🚀  I'm currently working on [NBA Data Pipeline and Performance Dashboard](http://github.com/tbala25/nba-scouting-dashboard)
-* 🧠  I'm learning Streamlit (dashboards)
+* 🧠  I'm learning Streamlit, Databricks, 
 * 🤝  I'm open to collaborating on freelance dashboarding, data piplines, predictive modelling
+
+-----------------------
 
 ### Skills
 
